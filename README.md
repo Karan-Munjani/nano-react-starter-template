@@ -1,6 +1,9 @@
 # Getting Started with Minimal Create React App Template
 
-Clone this Repository to your file system and do changes as needed, like app title,name etc.
+1) Clone this Repository to your file system.
+2) Run npm i
+3) Do changes as needed, like app title,name etc.
+4) Run below available Scripts.
 Thank You!
 
 ## Available Scripts
